@@ -1,0 +1,11 @@
+:root,
+html {
+  font-family: "Poppins", sans-serif;
+}
+p:not(:last-child) {
+  margin-bottom: 1.3em; /* Ajusta este valor a tu preferencia */
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}

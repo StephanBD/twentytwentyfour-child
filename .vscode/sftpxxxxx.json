@@ -1,0 +1,12 @@
+// {
+//   "name": "My Server",
+//   "host": "",
+//   "protocol": "ftp",
+//   "port": 21,
+//   "username": "",
+//   "remotePath": "/public_html/wp-content/themes/",
+//   "password": "",
+//   "uploadOnSave": true,
+//   "useTempFile": false,
+//   "openSsh": false
+// }
